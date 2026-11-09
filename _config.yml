@@ -13,9 +13,8 @@ title                    : "Husni Nafa Mubarok"
 title_separator          : "-"
 name                     : &name "Husni Nafa Mubarok" # Update this with your name, this is the default if not overridden by a page
 description              : &description "Data Scientist specializing in data analysis, machine learning, and web development."
-url                      : https://portofolio.hnmtech.me
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://salsabilsa-bs.github.io
+baseurl                  : "/Academic-Portfolio" # the subpath of this project site
 repository               : "salsabilsa-bs/Academic-Portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
